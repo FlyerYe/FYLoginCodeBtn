@@ -61,6 +61,7 @@
 		AB6AF565741C64EB0E45005F1086DF62 /* FYLoginCodeBtn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FYLoginCodeBtn.release.xcconfig; sourceTree = "<group>"; };
 		AB7D7F43C9E8750E392BFD28397933C2 /* Pods-FYLoginCodeBtn_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FYLoginCodeBtn_Example-frameworks.sh"; sourceTree = "<group>"; };
 		B023854FEDA3807DDF8A1164EB80F6CC /* FYLoginCodeBtn-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FYLoginCodeBtn-Info.plist"; sourceTree = "<group>"; };
+		BC28E7FE262C486800BBDEA8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BD7B39BFF2AC0F95149D17261D2EDA57 /* Pods-FYLoginCodeBtn_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FYLoginCodeBtn_Example-dummy.m"; sourceTree = "<group>"; };
 		C264C949F0AB003E6B6241B449395B16 /* Pods-FYLoginCodeBtn_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FYLoginCodeBtn_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C3C24AC6EF8A0CDA1082488CFC035B6B /* Pods-FYLoginCodeBtn_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FYLoginCodeBtn_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 			children = (
 				3B491CF068A99B030F0F6E1BF0CE7CED /* FYLoginCodeBtn.podspec */,
 				8530A9BF54C470CA3282E048C1317EC9 /* LICENSE */,
+				BC28E7FE262C486800BBDEA8 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
