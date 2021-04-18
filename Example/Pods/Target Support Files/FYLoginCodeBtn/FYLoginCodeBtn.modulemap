@@ -1,0 +1,6 @@
+framework module FYLoginCodeBtn {
+  umbrella header "FYLoginCodeBtn-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_FYLoginCodeBtn_Tests {
+  umbrella header "Pods-FYLoginCodeBtn_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - FYLoginCodeBtn (0.1.0)
+
+DEPENDENCIES:
+  - FYLoginCodeBtn (from `../`)
+
+EXTERNAL SOURCES:
+  FYLoginCodeBtn:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYLoginCodeBtn: fefeb3fc12478fb985d9f545dc38c4e9c88635a9
+
+PODFILE CHECKSUM: ad3af33d7ea1ae41e1c832104cefbe0e3c66d8f8
+
+COCOAPODS: 1.10.1
